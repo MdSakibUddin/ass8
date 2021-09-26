@@ -1,0 +1,19 @@
+.cartstyle{
+    background-color: rgb(173, 153, 247);
+    width:250px;
+    margin: auto;
+    border-radius: 5px;
+    border:2px solid rgba(235, 235, 172, 0.932)
+}
+.addedDetail{
+    background-color: rgb(253, 220, 136);
+    padding-bottom: 5px;
+    padding-top: 3px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.text-style{
+    border-bottom: 2px solid #161616;
+    width: 75%;
+    margin: auto;
+}

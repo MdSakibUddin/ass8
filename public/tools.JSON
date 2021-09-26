@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Red Sahi",
+        "weight": "100kg",
+        "age": "8 months",
+        "price": 50000,
+        "img": "https://www.clickbd.com/global/classified/item_img/801213_0_original.jpg",
+        "id": 101
+    },
+    {
+        "name": "Black Panjab",
+        "weight": "120kg",
+        "age": "10 months",
+        "price": 70000,
+        "img": "https://qph.fs.quoracdn.net/main-qimg-6689e0e5be0955c978258e17bc8c6644",
+        "id": 102
+    },
+    {
+        "name": "Raja Bihar",
+        "weight": "130kg",
+        "age": "1 year",
+        "price": 100000,
+        "img": "https://i.playboard.app/p/AAUvwni9uGQaDuoDQ6bgUqjCx07uQitDC6eZjEF5w_jCFuQ/default.jpg",
+        "id": 103
+    },
+    {
+        "name": "Sher",
+        "weight": "115kg",
+        "age": "7 months",
+        "price": 80000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 104
+    },
+    {
+        "name": "Shahi",
+        "weight": "125kg",
+        "age": "1.1 year",
+        "price": 100000,
+        "img": "https://www.falgunishop.com/public/img/products/cow_7116547c96ccebbfd1aca822e91f5e4f0_lg.jpg",
+        "id": 105
+    },
+    {
+        "name": "Lahore",
+        "weight": "135kg",
+        "age": "1.2 year",
+        "price": 120000,
+        "img": "https://www.falgunishop.com/img/products/cow_df6ba44b48f9ab558a9b25265b7294e60_lg.jpg",
+        "id": 106
+    },
+    {
+        "name": "Madraj",
+        "weight": "180kg",
+        "age": "1.5 year",
+        "price": 150000,
+        "img": "https://agritech.tnau.ac.in/ta/animal_husbandry/images/sahiwal_cow.jpg",
+        "id": 107
+    },
+    {
+        "name": "Bahma",
+        "weight": "200kg",
+        "age": "2 year",
+        "price": 180000,
+        "img": "https://www.pngfind.com/pngs/m/29-297304_bull-cow-png-transparent-png.png",
+        "id": 108
+    },
+    {
+        "name": "Thaimu",
+        "weight": "210kg",
+        "age": "2.1 year",
+        "price": 185000,
+        "img": "https://i.pinimg.com/564x/0a/3a/9f/0a3a9f3f985ccfbf398c345807117cf8.jpg",
+        "id": 109
+    },
+    {
+        "name": "Indian-Pathan",
+        "weight": "90kg",
+        "age": "6 months",
+        "price": 48000,
+        "img": "https://www.pikpng.com/pngl/m/20-208742_cow-png-image-indian-cow-images-png-clipart.png",
+        "id": 110
+    },
+    {
+        "name": "American Brahma",
+        "weight": "115kg",
+        "age": "10 months",
+        "price": 80000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladeshi_goru_%2812%29.jpg/800px-Bangladeshi_goru_%2812%29.jpg",
+        "id": 111
+    },
+    {
+        "name": "Mad-Bull",
+        "weight": "220kg",
+        "age": "2 year",
+        "price": 220000,
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/07/jamalpur-eid-on-the-occasion-of-the-eid-pic-1-27-07-1564327592615.jpg",
+        "id": 112
+    }
+]
